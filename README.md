@@ -28,12 +28,12 @@ Created as an independent practice project to develop my frontend implementation
 ## Screenshots
 
 ![Linear UI Homepage](assets/linear-homepage.png)
-![Linear UI Homepage](assets/linear-detail.png)
-![Linear UI Homepage](assets/linear-hero.png)
+![Linear UI Detail](assets/linear-detail.png)
+![Linear UI Hero](assets/linear-hero.png)
 
 ## Live Demo
 
-https://shezan-ali.github.io/linear-ui-clone/
+[View Live Website](https://shezan-ali.github.io/linear-ui-clone/)
 
 ## Disclaimer
 
