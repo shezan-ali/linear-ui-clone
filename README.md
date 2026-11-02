@@ -27,7 +27,9 @@ Created as an independent practice project to develop my frontend implementation
 
 ## Screenshots
 
-![Linear UI Homepage](assets/linear-homepage.png.png)
+![Linear UI Homepage](assets/linear-homepage.png)
+![Linear UI Homepage](assets/linear-detail.png)
+![Linear UI Homepage](assets/linear-hero.png)
 
 ## Live Demo
 
