@@ -28,8 +28,8 @@ Created as an independent practice project to develop my frontend implementation
 ## Screenshots
 
 ![Linear UI Homepage](assets/linear-homepage.png)
-![Linear UI Detail](assets/linear-detail.png)
 ![Linear UI Hero](assets/linear-hero.png)
+![Linear UI Detail](assets/linear-detail.png)
 
 ## Live Demo
 
